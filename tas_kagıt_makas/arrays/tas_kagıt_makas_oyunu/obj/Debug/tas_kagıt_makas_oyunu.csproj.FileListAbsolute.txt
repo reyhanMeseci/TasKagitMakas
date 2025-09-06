@@ -1,0 +1,8 @@
+C:\Users\REYHAN\source\repos\tas_kagıt_makas\arrays\tas_kagıt_makas_oyunu\bin\Debug\tas_kagıt_makas_oyunu.exe.config
+C:\Users\REYHAN\source\repos\tas_kagıt_makas\arrays\tas_kagıt_makas_oyunu\bin\Debug\tas_kagıt_makas_oyunu.exe
+C:\Users\REYHAN\source\repos\tas_kagıt_makas\arrays\tas_kagıt_makas_oyunu\bin\Debug\tas_kagıt_makas_oyunu.pdb
+C:\Users\REYHAN\source\repos\tas_kagıt_makas\arrays\tas_kagıt_makas_oyunu\obj\Debug\tas_kagıt_makas_oyunu.csproj.AssemblyReference.cache
+C:\Users\REYHAN\source\repos\tas_kagıt_makas\arrays\tas_kagıt_makas_oyunu\obj\Debug\tas_kagıt_makas_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\source\repos\tas_kagıt_makas\arrays\tas_kagıt_makas_oyunu\obj\Debug\tas_kagıt_makas_oyunu.exe
+C:\Users\REYHAN\source\repos\tas_kagıt_makas\arrays\tas_kagıt_makas_oyunu\obj\Debug\tas_kagıt_makas_oyunu.pdb
+C:\Users\REYHAN\source\repos\tas_kagıt_makas\arrays\tas_kagıt_makas_oyunu\obj\Debug\tas_kagıt_makas_oyunu.exe.config
